@@ -39,7 +39,7 @@ The project utilizes a combination of Azure services to create a dynamic and inf
 The objective of Fin-Solve is to provide users with an intuitive and informative experience, offering insights and recommendations to enhance their financial wellness, lifestyle choices, and travel experiences. By leveraging Azure services and key features, Fin-Solve aims to empower users to make informed decisions and achieve financial stability while enjoying life to the fullest.
 
 
-# Project Link:
+# Project Link: https://salmon-pond-0c345ee10.5.azurestaticapps.net
 
 # Sample images of the project :
 
