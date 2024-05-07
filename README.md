@@ -43,7 +43,18 @@ The objective of Fin-Solve is to provide users with an intuitive and informative
 
 # Sample images of the project :
 
+![image](https://github.com/chinnu2968/Y20_FRT_PROJECT/assets/160316756/0da6d51d-4d88-4877-85fd-9ed54121a6a0)
+![image](https://github.com/chinnu2968/Y20_FRT_PROJECT/assets/160316756/92799fae-9662-4056-a980-cee8a7c6ea9a)
+![image](https://github.com/chinnu2968/Y20_FRT_PROJECT/assets/160316756/0793095b-96b5-4ed7-b8b6-7a750e86df07)
+![image](https://github.com/chinnu2968/Y20_FRT_PROJECT/assets/160316756/fe347bec-8572-425e-90d7-25d3d8dd630e)
+
+
+
+
+
 
 
 # Result: 
+![image](https://github.com/chinnu2968/Y20_FRT_PROJECT/assets/160316756/444a4eaa-a18c-4351-b207-e9111f291350)
+
 
